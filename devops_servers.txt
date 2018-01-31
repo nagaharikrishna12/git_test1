@@ -1,0 +1,98 @@
+192.168.61.11---docker
+192.168.61.12--qa server--docker
+192.168.60.21--ansible control--docker
+
+
+32770--firefox
+32769-chrome
+32768-selenium hub
+172.18.0.2---c1
+172.18.0.3---c2
+172.19.0.2---c3
+
+
+
+172.17.0.3
+
+hub.docker.com
+id--intelliq2
+useranme-harikrishnaetl.ds@gmail.com
+pwd--intelliq2
+
+
+
+/var/lib/docker/volumes/9538b5b7639794806aed6b48c268cee4c149aa00e9ac242f50103b4dfe2d528d/_data-----mounts
+
+/var/lib/docker/volumes/8a31d026c0962945801afbe3517f6087112ac01fc7a2d54ce2089db00ed295a2/_data
+
+
+
+/var/lib/docker/volumes/10411c7895babe9e924145eced38ba3cc211fd8e3b44b1e9a0d6fd352d49578c/_data
+
+
+/var/lib/docker/volumes/e23a25a5755695ca9b436d2df5b4df7ffa2879c8add4f55119ffdc1a0027b017/_data
+
+sudo passwd root
+
+su -root
+password--intelliq
+
+
+
+
+=================================
+192.168.60.21--ansible controller
+192.168.60.22--managednode
+192.168.60.23-managednode
+192.168.60.24--managed node
+192.168.60.25--managed node
+
+
+
+http://docs.ansible.com/ansible/latest/intro_installation.html#latest-releases-via-apt-ubuntu
+need to give below comands one by one in control machine for ansible installation
+
+curl -fsSL get.docker.com -o get-docker.sh
+sh get-docker.sh
+
+===============
+
+C:\Program Files (x86)\Jenkins\secrets\initialAdminPassword
+
+
+
+===========================================================================
+aws login
+username- nagaharirkishna12@gmail.com
+pwd--Nagalaxmi12@
+
+
+
+
+
+
+
+
+
+
+
+
+hub.docker.com
+id--intelliqit1
+pwd--intelliqit
+
+==========================================================
+
+
+git
+pwd==september12
+
+==================================================================
+
+
+
+https://www.youtube.com/watch?v=QsoDfGMzBF4&list=PL5NG-eEzvTtjmzgslgWJwWGmAn8BB7eRH&index=3--------------------jira ticketing tool video link
+
+
+==========================================================================
+https://www.vagrantup.com/downloads.html

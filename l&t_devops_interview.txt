@@ -1,0 +1,89 @@
+roles and ressponsibilities
+do u have expertsie in configuartion management--ansible
+play books
+dif between ansible and chef
+how many types of inventories in ansible---4 types
+
+wht is a variable and functionality in ansible?
+wht is adhoc command?
+default variables ansible?
+
+command to see the all the inventory hosts?
+
+how do i run diffrent roles for one  ansible playbook?
+I have dynamic inventory in ansible 
+how the acess a varible using commands? while writing yml file then how do acess a variable in playbiook?
+what is the module we are usoing other than copy module?
+have ever used crypted password for user module?
+what is ansible galaxy?
+ansible fact ?
+ansible call back plugins?
+ansible tower?
+
+
+
+
+=========================================================================
+
+abt urself
+
+aws
+security gropus
+imroles
+
+
+typical task
+experinrcing installing softwares in aws
+
+clustering i in sql server
+
+
+how u monitor ur server
+
+isues in monitoring
+
+
+if we want to chk 
+
+if we want to chk port number and id
+
+y use netstat comand
+
+auto scaling in aws
+
+migration experience
+
+
+supose u have around 500 system running on those we need to deploy softwrae
+
+
+
+wht are the diffrent tools used for testing
+
+
+
+u need to perform some check list
+
+there are different factors for scaling  like cpu,,io,,how u monitor and scale to perfom the scaling
+
+in ur exeprirnce how many majr releseases u hav been done?
+
+hav u worked with any mobile applications
+
+do u have ant exeprience with no sql,,hadoop
+
+wht are the diffrent devops tools worked with
+
+
+how devops help the developers
+
+
+
+
+
+
+
+
+
+
+

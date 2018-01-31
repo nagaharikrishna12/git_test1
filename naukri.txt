@@ -1,0 +1,105 @@
+naukri
+
+DATASTAGE
+
+nagahari.ds12@gmail.com==naukri
+nagaharikrishna
+
+
+nagahari.ds12@gmail.com---monster
+nagaharikrishna
+======================================================
+
+COURIER
+
+04027176034  
+27178208
+
+
+
+act fibre---krishna.yasodha@gmail.com
+vc54yl
+
+
+==================================================================
+
+https://www.calculator.com/percentage/---------percentage calc
+
+========================================================================
+
+devops naukri
+
+gunisetty.naga@gmail.com
+nagaharirkishna
+
+gmail--same id and pwd
+
+
+
+==========================================================
+
+abt urself
+
+aws
+security gropus
+imroles
+
+
+typical task
+experinrcing installing softwares in aws
+
+clustering i in sql server
+
+
+how u monitor ur server
+
+isues in monitoring
+
+
+if we want to chk 
+
+if we want to chk port number and id
+
+y use netstat comand
+
+auto scaling in aws
+
+migration experience
+
+
+supose u have around 500 system running on those we need to deploy softwrae
+
+
+
+wht are the diffrent tools used for testing
+
+
+
+u need to perform some check list
+
+there are different factors for scaling  like cpu,,io,,how u monitor and scale to perfom the scaling
+
+in ur exeprirnce how many majr releseases u hav been done?
+
+hav u worked with any mobile applications
+
+do u have ant exeprience with no sql,,hadoop
+
+wht are the diffrent devops tools worked with
+
+
+how devops help the developers
+
+
+
+
+
+
+
+
+
+
+
+
+
+

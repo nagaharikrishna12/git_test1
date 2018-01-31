@@ -1,0 +1,133 @@
+---
+- name: installing apache2,starting,checking response
+  hosts: 172.31.37.86
+  tasks:
+   - name: installing apache2 
+     apt:
+      name: apache2
+      state: present
+      update_cache: yes
+    - name: starting apache2
+      service:
+       name: apache2
+       state: started
+    - name :check url response
+      uri: 
+       url: http://172.31.37.86
+       status: 200
+...   
+
+
+================================================================================
+
+- name: installing git,starting,checking response
+  hosts: 172.31.37.86
+  tasks:
+   - name: installing git
+     apt:
+      name: git
+      state: absent
+      update_cache: yes
+   ========================================================================================
+---
+- name: installing packages
+  hosts: all
+  tasks:
+   - name: install tree
+     apt:
+      name: tree
+      state: present
+   - name: installing apache2
+     apt:
+      name: apache2
+      state: present
+   - name: installing git
+     apt:
+      name: git
+      state : present
+...
+
+=============================================================================================
+---
+- name: creating dir and copy afile
+  hosts: all
+  tasks:
+   - name: creating dir
+     file:
+      name: newdir1
+      state: directory
+   - name: copy afile
+     copy:
+      src: /home/ansible/file9
+      dest: /home/ansible/newdir1
+...
+
+========================================================================================================
+{correct syntax}
+---
+- name: uninstalling packages
+  hosts: all
+  tasks:
+   - name: package uninstallation
+     apt:
+      name: "{{item}}"
+      state: absent
+      update_cache: no
+     with_items:
+      - tree
+      - apache2
+
+=================================================
+
+---
+- name: installing and uninstalling packages
+  hosts: all
+  tasks:
+   - name: package installation and uninstallation
+     apt:
+      name: "{{item.a}}"
+      state: "{{item.b}}"
+      update_cache: "{{item.c}}"
+     with_items:
+      - {a: tree,b: present,c: yes}
+      - {a: apache2,b: present,c: no}
+...
+========================================================
+
+----
+- name: installing apache2
+  apt:
+   name: apache2
+   state: present
+   update_cache: yes
+
+================================================================
+
+---
+- name: implementing when
+  hosts: all
+  vars:
+    a: 10
+  tasks:
+   - apt:
+     name: tree
+     state: present
+     when: a==10
+...
+
+===========================================================
+
+
+
+   s.raghavendrareddy
+icici  bank
+acc.no.067401502486
+ifsc:icic0000674
+
+
+     
+  
+
+
+
+       
